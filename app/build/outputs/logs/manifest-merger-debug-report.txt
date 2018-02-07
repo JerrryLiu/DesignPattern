@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bd218ec19dd4c8fd823c63abf64185c9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\8b9e51bae1d127cdf10dcfaf104348b1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\45151080131e5075afb43832c14262a2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\644c073ed5e63046323a2bec07205e74\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9949246f397e7b49bba3e2eb5da0a87e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\380d8b487c08b322c048f033dc641d23\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\848e1cd36d427ace7736e29a41d10a54\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\89398777cf428487982d71fe6e734567\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\61c9096d15a30e33a0fc8706d7a4f3c4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\fc4c5a9d8ad933b67aee2c0db3546af8\AndroidManifest.xml:17:1-27:12
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:5:5-49:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bd218ec19dd4c8fd823c63abf64185c9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bd218ec19dd4c8fd823c63abf64185c9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\45151080131e5075afb43832c14262a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\45151080131e5075afb43832c14262a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\644c073ed5e63046323a2bec07205e74\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\644c073ed5e63046323a2bec07205e74\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9949246f397e7b49bba3e2eb5da0a87e\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9949246f397e7b49bba3e2eb5da0a87e\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\380d8b487c08b322c048f033dc641d23\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\380d8b487c08b322c048f033dc641d23\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\848e1cd36d427ace7736e29a41d10a54\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\848e1cd36d427ace7736e29a41d10a54\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\89398777cf428487982d71fe6e734567\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\89398777cf428487982d71fe6e734567\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\61c9096d15a30e33a0fc8706d7a4f3c4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\61c9096d15a30e33a0fc8706d7a4f3c4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\fc4c5a9d8ad933b67aee2c0db3546af8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\fc4c5a9d8ad933b67aee2c0db3546af8\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:6:9-47
+activity#com.example.jingbin.designpattern.MainActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.jingbin.designpattern.observer.ObserverActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:19:9-21:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:20:13-54
+activity#com.example.jingbin.designpattern.factory.FactoryActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:22:9-24:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:23:13-52
+activity#com.example.jingbin.designpattern.singleton.SingletonActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:26:13-56
+activity#com.example.jingbin.designpattern.strategy.StrategyActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:29:13-54
+activity#com.example.jingbin.designpattern.adapter.AdapterActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:32:13-52
+activity#com.example.jingbin.designpattern.command.CommandActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:35:13-52
+activity#com.example.jingbin.designpattern.decorator.DecoratorActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:38:13-56
+activity#com.example.jingbin.designpattern.facade.FacadeActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:41:13-50
+activity#com.example.jingbin.designpattern.templatemethod.TemplateMethodActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:43:9-45:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:44:13-66
+activity#com.example.jingbin.designpattern.state.StateActivity
+ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:46:9-48:52
+	android:screenOrientation
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml:47:13-48
+uses-sdk
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bd218ec19dd4c8fd823c63abf64185c9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bd218ec19dd4c8fd823c63abf64185c9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\8b9e51bae1d127cdf10dcfaf104348b1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\8b9e51bae1d127cdf10dcfaf104348b1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\45151080131e5075afb43832c14262a2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\45151080131e5075afb43832c14262a2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\644c073ed5e63046323a2bec07205e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\644c073ed5e63046323a2bec07205e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9949246f397e7b49bba3e2eb5da0a87e\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9949246f397e7b49bba3e2eb5da0a87e\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\380d8b487c08b322c048f033dc641d23\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\380d8b487c08b322c048f033dc641d23\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\848e1cd36d427ace7736e29a41d10a54\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\848e1cd36d427ace7736e29a41d10a54\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\89398777cf428487982d71fe6e734567\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\89398777cf428487982d71fe6e734567\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\61c9096d15a30e33a0fc8706d7a4f3c4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\61c9096d15a30e33a0fc8706d7a4f3c4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\fc4c5a9d8ad933b67aee2c0db3546af8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\fc4c5a9d8ad933b67aee2c0db3546af8\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\JerryLiu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bd218ec19dd4c8fd823c63abf64185c9\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+		ADDED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
+		INJECTED from F:\github\DesignPattern\app\src\main\AndroidManifest.xml
