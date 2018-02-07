@@ -21,7 +21,13 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by jingbin on 2016/10/21.
+ * <pre>
+ *     @author : JerryLiu
+ *     e-mail : liudb@gospell.com
+ *     time   : 2018/2/7
+ *     desc   :
+ *     version: 1.0
+ * </pre>
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
